@@ -2,7 +2,7 @@
 
 ## Description
 
-This app was created for users that want to share new tech they have discovered or see what other tech users have found. News Feed with Python was built using the Flask framework and is using MYSQL database, it is also my first project using python! While building this app I learned that indentaion is extreamly important. The files from this app came from [python-newsfeed](https://github.com/jessemarino/python-newsfeed) orginally due to having many errors when attempting to deploy with Heroku. I eventually figured out that I initialized the repo incorrectly and is why we now have News Feed with Python.
+This app was created for users that want to share new tech they have discovered or see what other tech users have found. News Feed with Python was built using the Flask framework and is using MYSQL database, it is also my first project using python! While building this app I learned that indentation is extreamly important. The files from this app came from [python-newsfeed](https://github.com/jessemarino/python-newsfeed) originally due to having many errors when attempting to deploy with Heroku. I eventually figured out that I initialized the repo incorrectly and is why we now have News Feed with Python.
 
 ## Table of Contents
 
