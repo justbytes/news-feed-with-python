@@ -9,7 +9,7 @@ This app was created for users that want to share new tech they have discovered 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Questions](#questions)
-- [Link to app](#link to app)
+- [Link](#link)
 
 ### Usage
 
@@ -38,7 +38,7 @@ If you would like to contribute to this app please fork the repo and submit a pu
 
 If you have any questions please reach out by going to my Github profile where you will find my email.
 
-### Link to App
+### Link
 
 Click [here](https://news-feed-with-python.herokuapp.com/) to try out the deployed app!
 
