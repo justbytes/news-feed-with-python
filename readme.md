@@ -36,7 +36,7 @@ If you would like to contribute to this app please fork the repo and submit a pu
 
 ### Questions
 
-If you have any questions please reach out by going to my profile where you will find my email.
+If you have any questions please reach out by going to my Github profile where you will find my email.
 
 ### Link to App
 
