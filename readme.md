@@ -21,7 +21,7 @@ If there is a new user they will need to login in order to create, comment, and 
 
 ![login](./images/login.png)
 
-Once the user has either signed up or logged in, they will be redirected to their personal dashboard. Here the user can see the posts they have created. They can click the edit button after created a post to update the post or delete it. Users will also now have the ability to upvote posts.
+Once the user has either signed up or logged in, they will be redirected to their personal dashboard. Here the user can see the posts they have created. 
 
 ![dashboardper](./images/dashboardper.png)
 
